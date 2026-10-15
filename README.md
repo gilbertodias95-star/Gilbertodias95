@@ -32,6 +32,10 @@ Olá! Sou um profissional em início de jornada na área de Tecnologia da Inform
 * Git e GitHub
 * IA
 
+📈 Minha jornada 
+
+Este perfil registra minha evolução, meus aprendizados e os projetos que desenvolverei ao longo da minha trajetória na tecnologia.
+
 📫 Vamos nos conectar?
 
 🔗 LinkedIn: https//www.linkedin.com/in/gilberto-dias-860767325
